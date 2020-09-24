@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Будь ласка, не починай розмови в чаті з "привіт!"
 
-You can use the [editor on GitHub](https://github.com/retraut/nepryvit.v.ua/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<pre>
+2020-07-19 12:32:12 ти: привіт!
+2020-07-19 12:32:15 колега: Привіт.
+#Колега чекає, допоки ви сфорумуєте своє запитання
+2020-07-19 12:34:01 ти: Я працюю над [чимось] і намагаюсь зробити наступне [і так далі...]
+2020-07-19 12:35:21 колега: А, ти про це, треба просто [відповідь...]
+</pre>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Так відбувається, якщо ти комусь написав "привіт!", і після цього ставиш його на паузу, 
+допоки не отримаєш "привіт!" у відповідь.
+Ніт! Не роби так!
 
-### Markdown
+Краще роби наступним чином:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<pre>
+2020-07-19 12:32:12 ти: привіт -- я працюю над [чимось] і намагаюсь зробити наступне [і так далі...]
+2020-07-19 12:33:32 колега: [відповідає на питання]
+</pre>
 
-```markdown
-Syntax highlighted code block
+Зауваж, що ти отримуєш відповідь на кілька хвилин раніше, і не змушуєш колегу чекати.
+Колега починає думати над відповідю, одразу після запитання.
 
-# Header 1
-## Header 2
-### Header 3
+Ти намагаєшся поводитися ввічливо, та не починати розмову з запиту, так немов
+ви розмовляєте по телефону. Чат - не місце для таких речей. Набирати текст
+на клавіатурі, займає більше часу ніж говорити по телефону. Замість того,
+щоб бути ввічливим, ти змушуєш людину чекати допоки ти фразуєш запитання,
+через такі дії, всі втрачають в своїй продуктивності, та роблять меньше ніж могли.
 
-- Bulleted
-- List
+Те саме відбувається, коли ви пишите "привіт -- ти тут?", "привіт, Олена -- швидке питання",
+"у тебе є хвилинка?", "пінг". 
+Ніт! Просто задайте питання! 
 
-1. Numbered
-2. List
+Якщо ви вважаєте, що написть "привіт" і задати питання це дуже грубо, 
+то можна зробити наступним чином
 
-**Bold** and _Italic_ and `Code` text
+<pre>
+2020-07-19 12:32:12 ти: привіт -- якщо ти не зайнятий, я подумав що ти зможеш відповісти на моє питання. Я працюю над [чимось] і намагаюсь зробити [і так далі...]
+</pre>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/retraut/nepryvit.v.ua/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Також, якщо ти почнеш з питання одразу, то у вас може вийте 
+ассинхронна коммунікація. Якщо відповідач зараз недоступний, то по поверненні він все ще, 
+зможе відповісти на питання, замість того щоб дивитися на твій "привіт", і думати що він пропустив.
